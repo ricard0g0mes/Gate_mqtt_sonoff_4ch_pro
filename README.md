@@ -1,7 +1,8 @@
 # Gate_mqtt_sonoff_4ch_pro
 
 Sistema de comando para um portão de 2 folhas usando um Sonoff 4ch pro.
-
+Considera-se a utilização de motores DC. Para "deteção" de esforço, uso polyfuse's.
+Devem escolher o polyfuse mais adequado aos vossos motores e ao esforço que querem que ele possa exercer. 
 
 
 ######################## Memórias de estado e operação em curso########################
